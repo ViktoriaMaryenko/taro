@@ -1,0 +1,48 @@
+*body {
+	
+}
+
+.footer {
+	background-image: url(../images/bkg1_dskt.jpg);
+	background-repeat: no-repeat;
+	width: 1473px;
+	height: 699px;
+}
+	
+.new {
+	color: #000000;
+	font-family: "PT Sans";
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+ .star {
+	font-size: 48px;
+ }
+
+.name {
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.75);
+	color: #e1041e;
+	font-family: "Inset F - Heavy";
+	font-size: 80px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+.coment {
+	color: #010000;
+	font-family: "PT Sans";
+	font-size: 30px;
+	font-weight: 700;
+}
+
+
+.btn {
+	border-radius: 10px;
+	border: 1px solid #e1041e;
+	background-color: #ffffff;
+	opacity: 0.32;
+	
+}
