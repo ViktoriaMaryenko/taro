@@ -44,5 +44,28 @@
 	border: 1px solid #e1041e;
 	background-color: #ffffff;
 	opacity: 0.32;
+}
+
+.btn__text {
+	color: #010101;
+	font-family: "PT Sans";
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.btn__free {
+	width: 358px;
+	height: 78px;
+	box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+	border-radius: 38px;
+	background-color: #ece411;
 	
+}
+
+.data__seminar {
+	color: #4e1118;
+	font-family: "PT Sans";
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
 }
